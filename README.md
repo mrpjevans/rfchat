@@ -1,5 +1,5 @@
 # rfchat
-A simple chat app for demonstration communication over 433Mhz. Accompanies the tutorial in MagPi #75. See [https://www.raspberrypi.org/magpi/]() for further details.
+A simple chat app for demonstrating communication over 433Mhz. Accompanies the tutorial in MagPi #75. See [https://www.raspberrypi.org/magpi/]() for further details.
 
 Also includes send and receive utilties based on [https://github.com/milaq/rpi-rf/]() where more information can be found on using the Raspberry Pi for 433Mhz communication.
 
