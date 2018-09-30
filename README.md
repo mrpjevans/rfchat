@@ -26,21 +26,21 @@ $ git clone https://github.com/mrpjevans/rfchat.git
 
 ## Usage
 
-####Chat app
+#### Chat app
 
 ```bash
 python3 ~/rfchat/rfchat.py
 ```
 Ctrl+c to exit
 
-####Test Receive
+#### Test Receive
 
 ```bash
 python3 ~/rfchat/receive.py
 ```
 Ctrl+c to exit
 
-####Test Send
+#### Test Send
 
 ```bash
 python3 ~/rfchat/send.py n
